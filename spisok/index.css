@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://kartinki.pics/uploads/posts/2021-07/thumbs/1625866250_4-kartinkin-com-p-odnotonnie-oboi-minimalizm-krasivie-4.jpg);
+    background-size: cover;
+    background-position: center; 
+}
+
+.container {
+    text-align: center;
+  }
+
+#bt-1 {
+    background-color: #858080;
+    color: white;
+    border: 2px, color(srgb red);
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+#bt-1:hover {
+    transform: scale(1.1); /* Збілщити кнопу*/
+    background-color: #ffffff;
+    color: black;
+}
+
+#i-1 {
+    margin-right: 5px;
+}
+
+h2 {
+    color: antiquewhite;
+}
+
+ul {
+    color: antiquewhite;
+}
+
